@@ -26,7 +26,7 @@
               humans in respect of their design.<br>
               Some exaples of famous Anime Shows:One Piece, Naruto Shipuden, Jujutsu Kaisen etc.
               <br>
-              Platform where you can watch Anime Shows <a href="http//Zoro.to">Zoro.to</a>.
+              Platform where you can watch Anime Shows <a href="http//zoro.to">Zoro.to</a>.
               <br>
               <img src="C:\Users\krish\Downloads\anime.jpg" width="300" height="400">
               <br>
