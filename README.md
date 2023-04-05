@@ -5,11 +5,9 @@
             .a{
                 color: cyan;
             }
-
             .b{
                 color: seagreen;
             }
-
             .body{
                 background-color: rgb(0, 0, 0);
                 color: white;
