@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            .a{
-                color: cyan;
-            }
-            .b{
-                color: seagreen;
-            }
-            .body{
-                background-color: rgb(0, 0, 0);
-                color: white;
-                font-weight: 90px;
-            }
-        </style>
     </head>
     <body class="body">
         <header>
